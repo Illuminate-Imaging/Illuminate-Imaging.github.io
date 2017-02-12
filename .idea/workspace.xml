@@ -2677,7 +2677,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Uber/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug-unaligned.apk" afterPath="$PROJECT_DIR$/../Uber/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug-unaligned.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Uber/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk" afterPath="$PROJECT_DIR$/../Uber/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Slack.app/Contents/Info.plist" afterPath="$PROJECT_DIR$/../Slack.app/Contents/Info.plist" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Slack.app/Contents/_CodeSignature/CodeResources" afterPath="$PROJECT_DIR$/../Slack.app/Contents/_CodeSignature/CodeResources" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Uber/.idea/misc.xml" afterPath="$PROJECT_DIR$/../Uber/.idea/misc.xml" />
@@ -2743,8 +2742,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.86890244">
-              <caret line="124" column="65" selection-start-line="124" selection-start-column="65" selection-end-line="124" selection-end-column="65" />
+            <state vertical-scroll-proportion="0.8917683">
+              <caret line="132" column="10" selection-start-line="132" selection-start-column="10" selection-end-line="132" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -3256,8 +3255,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.86890244">
-          <caret line="124" column="65" selection-start-line="124" selection-start-column="65" selection-end-line="124" selection-end-column="65" />
+        <state vertical-scroll-proportion="0.8917683">
+          <caret line="132" column="10" selection-start-line="132" selection-start-column="10" selection-end-line="132" selection-end-column="10" />
           <folding />
         </state>
       </provider>
